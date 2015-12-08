@@ -1,0 +1,24 @@
+{
+  "name": "hot-monkey",
+  "version": "0.1.0",
+  "description": "Monkey-patch running application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cztomsik/hot-monkey.git"
+  },
+  "keywords": [
+    "webpack",
+    "hmr",
+    "monkey"
+  ],
+  "author": "cztomsik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cztomsik/hot-monkey/issues"
+  },
+  "homepage": "https://github.com/cztomsik/hot-monkey#readme"
+}
